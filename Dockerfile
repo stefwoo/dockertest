@@ -1,1 +1,1 @@
-FROM daocloud.io/python:2-onbuild
+FROM daocloud.io/python:2.7
